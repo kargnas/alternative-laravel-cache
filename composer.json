@@ -1,5 +1,5 @@
 {
-    "name": "swayok/alternative-laravel-cache",
+    "name": "kargnas/alternative-laravel-cache",
     "type": "library",
     "description": "Replacements for Laravel's redis and file cache stores that properly implement tagging idea. Powered by cache pool implementations provided by http://www.php-cache.com/",
     "keywords": [
